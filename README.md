@@ -21,16 +21,18 @@ Overall, this project serves as a simple yet functional console-based employee m
 ![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/027fdceb-ae8e-4b5b-a4d8-2cb93ef09cba)
 
 # Delete an Employee's Record
-![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/b32a5105-8117-4899-a6a2-c758156e1990)
+![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/1866cb02-6f1b-4ec5-ab39-d7c0fab55a08)
 
 # Add an Employee
-![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/691f1b5c-66e5-49a7-85d1-2a6c81ead770)
+![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/fd398915-bf6d-4c67-9dc9-b547fa49c4de)
+
 
 # Get Average Salary of a Department
-![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/163956e9-a287-423d-8684-3c1a349a75de)
+![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/874b5590-2990-447f-a7af-d3903218bda0)
+
 
 # Calculate the Average Salary of an Employee in the Company
-![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/4096cfe4-86c7-4fbc-a4e7-13c7ba55dbee)
+![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/97627c4c-7fd1-4a2c-ab8b-5b9f8d8bbbfa)
 
 # Exit to close the terminal
 
