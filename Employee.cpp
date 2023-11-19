@@ -125,7 +125,6 @@ void Employee::update(){
                 f1  << " "<< id << " " << name << " " << age  << " " << dob << " " << salary << " " << dept  << endl;
 
             }
-            f >> id >> name >> age >> dob >> salary >> dept; 
         }
         if(flag == 0){
             cout << "\n\t\tEmployee Not present... Give Correct name and ID";
