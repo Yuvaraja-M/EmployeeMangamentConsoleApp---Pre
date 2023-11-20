@@ -35,6 +35,14 @@ Overall, this project serves as a simple yet functional console-based employee m
 ![image](https://github.com/Yuvaraja-M/EmployeeMangamentConsoleApp-Presidio/assets/84231769/97627c4c-7fd1-4a2c-ab8b-5b9f8d8bbbfa)
 
 # Exit to close the terminal
+Press 9 to close
+
+# How to run
+1. Just download the Employee.exe
+2. Double click and run the exe file
+3. Terminal will open
+4. App will start running
+5. If you add employee record it will create Employee.txt file automatically.
 
 
 
